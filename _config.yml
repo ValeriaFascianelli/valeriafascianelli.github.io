@@ -18,10 +18,10 @@ email: "vf2266@columbia.edu"   # optional but nice for contact
 ###############################################
 
 navbar-links:
- About Me: "aboutme"
+  About Me: "aboutme"
   Research: "research"
   CV: "cv"
-  Publications:"publications"
+  Publications: "publications"
   Contact: "contact"
   
 ################
@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/image_VF.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -62,6 +62,8 @@ rss-description: This website is a virtual proof that I'm awesome
 ###########################
 # --- General options --- #
 ###########################
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -98,6 +100,7 @@ edit_page_button: true
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
+  
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
