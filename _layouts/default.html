@@ -6,18 +6,26 @@
   <link rel="stylesheet" href="/assets/css/custom-styles.css">
 </head>
 <body>
-     <!-- site header -->
-  <header>
-    <h1 class="header-title">Valeria Fascianelli</h1>
-    <p class="header-subtitle">Postdoctoral Researcher in Computational Neuroscience</p>
-    <nav class="nav-links-inline">
-      <a href="/">Home</a>
-      <a href="/cv-and-publications/">CV & Publications</a>
-      <a href="/contact/">Contact</a>
-    </nav>
+  <!-- site header -->
+  <header class="site-header">
+    <div class="header-inner">
+      {% comment %} Use site.title (your name) on all pages {% endcomment %}
+      <h1 class="header-title">{{ site.title }}</h1>
+
+      <p class="header-subtitle">
+        Postdoctoral Researcher in Computational Neuroscience
+      </p>
+      <p class="header-affiliation">
+        Zuckerman Institute, Columbia University, New York
+      </p>
+      <nav class="nav-links-inline">
+        <a href="/">Home</a>
+        <a href="/cv-and-publications/">CV & Publications</a>
+        <a href="/contact/">Contact</a>
+      </nav>
+    </div>
   </header>
 
-  <!-- page content -->
   <main>
     {{ content }}
   </main>

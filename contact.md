@@ -8,7 +8,7 @@ permalink: /contact/
 
 ## Get in Touch
 
-I’m always happy to discuss potential collaborations, job opportunities, or to answer questions about my work. Feel free to reach out by email or connect via one of the platforms below.
+I’m always happy to discuss potential collaborations, new research ideas, job opportunities, or to answer questions about my work. Feel free to reach out by email or connect via one of the platforms below.
 
 ---
 
@@ -22,7 +22,7 @@ I’m always happy to discuss potential collaborations, job opportunities, or to
 
 Center for Theoretical Neuroscience  
 Zuckerman Institute, Columbia University  
-701 West 168th Street, New York, NY 10032, USA
+3227 Broadway, New York, NY 10027, United States
 
 ---
 

@@ -3,13 +3,16 @@
 
 /* ─── Color & Typography ─── */
 :root {
-  --bg-page:      #f5f5f5;
-  --bg-card:      #ffffff;
-  --text-main:    #333333;
-  --accent:       #0066cc;
-  --accent-2:     #004a99;
-  --font-body:    'Source Sans Pro', sans-serif;
-  --font-heading: 'Merriweather', serif;
+  --bg-page:     #000000;   /* pure black */
+  --bg-card:     #111111;   /* very dark gray for cards */
+  --text-main:   #EEEEEE;   /* off-white for body text */
+  --accent:      #6356FF;   /* purple accent (Bending Spoons style) */
+  --accent-2:    #856EFF;   /* lighter purple on hover */
+  --link-col:    #6356FF;
+  --link-hover:  #856EFF;
+  --border-col:  #333333;   /* card header underline */
+  --font-body:   'Source Sans Pro', sans-serif;
+  --font-heading:'Merriweather', serif;
 }
 
 /* ─── Global Styles ─── */
@@ -29,30 +32,31 @@ body {
   margin-top: 2rem;
   font-family: var(--font-heading);
   font-size: 3rem;
-  color: var(--accent-2);
+  color: var(--accent);
 }
 .header-subtitle {
   text-align: center;
   font-family: var(--font-body);
   font-size: 1.25rem;
-  color: #555555;
+  color: #CCCCCC;
   margin-bottom: 1.5rem;
 }
 
-/* ─── Text-only Nav Links ─── */
+/* ─── Text‐only Nav Links ─── */
 .nav-links-inline {
   text-align: center;
   margin: 1.5rem 0;
   font-size: 1rem;
 }
 .nav-links-inline a {
-  color: var(--accent);
+  color: var(--link-col) !important;
   text-decoration: none;
   margin: 0 0.5rem;
   transition: color 0.2s;
 }
-.nav-links-inline a:hover {
-  color: var(--accent-2);
+.nav-links-inline a:hover,
+.nav-links-inline a:focus {
+  color: var(--link-hover) !important;
   text-decoration: underline;
 }
 
@@ -63,7 +67,7 @@ body {
   background: var(--bg-card);
   padding: 2rem;
   border-radius: 8px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.7);
 }
 .about-content {
   display: flex;
@@ -87,10 +91,86 @@ body {
 .about-pic img:hover {
   transform: scale(1.02);
 }
-/* Narrow, centered content for longer pages */
+
+/* ─── Narrow, Centered Content ─── */
 .content-wrapper {
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-  }
-  
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* ─── Section Cards ─── */
+.section {
+  margin: 2rem auto;
+  overflow: hidden;
+  background: var(--bg-card);
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.7);
+}
+.section > h2 {
+  margin: 0;
+  padding: 1rem 1.5rem;
+  background-color: var(--bg-card);
+  color: var(--accent);
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-col);
+}
+.section .about-content,
+.section .research-interests {
+  padding: 1.5rem;
+}
+
+/* ─── Research Interests List ─── */
+.research-interests {
+  list-style: none;
+  padding: 0;
+}
+.research-interests li {
+  margin-bottom: 1rem;
+}
+
+/* ─── Contact Links ─── */
+.contact-links {
+  text-align: center;
+  margin: 3rem 0;
+}
+.contact-links a {
+  color: var(--link-col);
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+.contact-links a:hover,
+.contact-links a:focus {
+  color: var(--link-hover);
+}
+
+/* ─── Global Link Override ─── */
+a {
+  color: var(--link-col);
+  transition: color 0.2s;
+}
+a:hover,
+a:focus {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+/* ─── Header centering ─── */
+.site-header {
+  /* Optional: give your header some padding or bg if you like */
+  /* background: var(--bg-card); */
+}
+.site-header .header-inner {
+  max-width: 800px;    /* or whatever width you prefer */
+  margin: 0 auto;      /* centers the wrapper */
+  text-align: center;  /* centers its children */
+}
+
+/* ─── Affiliation styling ─── */
+.header-affiliation {
+  font-size: 1rem;
+  color: #CCCCCC;
+  margin-top: 0.25rem;
+  margin-bottom: 1.5rem;
+}
