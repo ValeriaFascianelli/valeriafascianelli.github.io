@@ -11,6 +11,34 @@ permalink: /cv-and-publications/
 You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:target="_blank"}.
 
 ---
+## CV Summary
+
+- **Current Position**  
+  Postdoctoral Research Scientist in Computational Neuroscience, Center for Theoretical Neuroscience, Columbia University, New York, USA (2020–present)
+
+- **Education**  
+  - Ph.D. in Neuroscience, La Sapienza University, Rome, Italy (2020)  
+  - Master of Research in Particle Physics, University of Birmingham, UK (2016) 
+  - M.Sc. in Nuclear & Subnuclear Physics, University Tor Vergata, Rome, Italy (2014)   
+  - B.Sc. in Physics, University Tor Vergata, Rome, Italy (2011)
+
+- **Grants & Fellowships**  
+  - Research Fellowship, Italian Academy in New York (2025)  
+  - “Avvio alla Ricerca” Sapienza University Grant (2018)  
+  - Best Project Award, BCBT Summer School (IBEC, Barcelona, 2018)
+
+- **Teaching & Mentorship**  
+  - Invited Lecturer, Mathematical Methods in Computational Neuroscience Summer School, Kavli Institute (2025)  
+  - Lecturer, Advanced Neurotheory Course, Columbia University (2024, 2022)  
+  - Teaching Assistant, Cognitive Science, Barnard College (2022–2023)
+
+- **Conference Roles & Invited Talks**  
+  - Invited Speaker, Bernstein Conference (Main, Germany, 2025)  
+  - Co-Chair, Mathematics for Neuroscience & AI (Split, Croatia, 2025)  
+  - Invited Speaker, COSYNE (Montreal, Canada, 2025)  
+  - Posters & Talks at AREADNE, SFN, Neuronex, Swartz, Tri-Center Gatsby, etc. (2018–2024)
+
+---
 
 ## Publications
 
