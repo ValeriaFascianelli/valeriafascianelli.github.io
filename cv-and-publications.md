@@ -22,21 +22,42 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - M.Sc. in Nuclear & Subnuclear Physics, University Tor Vergata, Rome, Italy (2014)   
   - B.Sc. in Physics, University Tor Vergata, Rome, Italy (2011)
 
-- **Grants & Fellowships**  
-  - Research Fellowship, Italian Academy in New York (2025)  
-  - “Avvio alla Ricerca” Sapienza University Grant (2018)  
-  - Best Project Award, BCBT Summer School (IBEC, Barcelona, 2018)
 
 - **Teaching & Mentorship**  
   - Invited Lecturer, Mathematical Methods in Computational Neuroscience Summer School, Kavli Institute (2025)  
   - Lecturer, Advanced Neurotheory Course, Columbia University (2024, 2022)  
-  - Teaching Assistant, Cognitive Science, Barnard College (2022–2023)
+  - Teaching Assistant, Cognitive Science, Barnard College (2022,2023)
+  - Teaching assistant at the Methods in Computational Neuroscience summer school, Marine Biological Laboratory, Woods Hole (2023)
+  - 2022 Mentor for the Summer program within the Leadership Alliance Program, Center for Theoretical Neuroscience, Columbia University (2022)
 
 - **Conference Roles & Invited Talks**  
+  - Invited Speaker, Mathematics for Neuroscience & AI (Split, Croatia, 2025) 
+  - Co-Chair of the Neural Data session, Mathematics for Neuroscience & AI (Split, Croatia, 2025)  
   - Invited Speaker, Bernstein Conference (Main, Germany, 2025)  
-  - Co-Chair, Mathematics for Neuroscience & AI (Split, Croatia, 2025)  
   - Invited Speaker, COSYNE (Montreal, Canada, 2025)  
-  - Posters & Talks at AREADNE, SFN, Neuronex, Swartz, Tri-Center Gatsby, etc. (2018–2024)
+  - Poster presenter, ARIADNE (Milos, Greece, 2024)
+  - Poster presenter, COSYNE (Lisbon, Portugal, 2024)
+  - Poster presenter, COSYNE (Montreal, Canada, 2023)
+  - Invited speaker, Tri-Center Gatsby meeting (Hebrew University, Jerusalem, Israel, 2022)
+  - Invited speaker, Swartz meeting (Cold Spring Harbor Laboratory, USA, 2022)
+  - Invited speaker, Neuronex meeting (San Diego, USA, 2022)
+  - Poster prsenter, SfN (San Diego, USA, 2022)
+  - Poster prsenter, SfN (online, 2021)
+  - Poster presenter, Italian National Congress in Neuroscience (Perugia, Italy, 2019)
+  - Poster presenter, Italian National Congress in Neuroscience (Ischia, Italy, 2018)
+  - Poster presenter, Italian National Meeting of PhD students in Neuroscience (Naples, Italy, 2017)
+
+  - **Grants & Fellowships**  
+  - Research Fellowship, Italian Academy in New York (2025)  
+  - “Avvio alla Ricerca” Sapienza University Grant (2018)  
+  - Best Project Award, BCBT Summer School (IBEC, Barcelona, 2018)
+
+
+
+
+
+
+
 
 ---
 

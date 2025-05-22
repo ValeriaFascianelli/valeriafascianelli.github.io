@@ -33,6 +33,14 @@ permalink: /
     </div>
     <div class="about-pic">
       <img src="/assets/img/image_VF.jpg" alt="Valeria Fascianelli">
+      <div class="contact-info">
+      <p><strong>Email:</strong> <a href="mailto:vf2266@columbia.edu">vf2266@columbia.edu</a></p>
+      <p><strong>Location:</strong> Zuckerman Institute,Columbia University, NY, USA</p>
+      <p class="social-links">
+        <a href="/assets/pdf/CV_Valeria_Fascianelli.pdf" target="_blank">CV</a>
+        <a href="https://scholar.google.com/citations?user=z_weYNIAAAAJ" target="_blank">Google Scholar</a>
+      </p>
+    </div>
     </div>
   </div>
 </section>
