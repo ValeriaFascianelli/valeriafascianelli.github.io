@@ -25,10 +25,10 @@ permalink: /
         <a href="https://www.nature.com/articles/s41586-024-08241-y" target="_blank">amygdala and hippocampus</a>.
       </p>
       <p>
-        I build interpretable, data-driven models using machine learning, dynamical-systems modeling, and decoding analyses to understand how the geometry of neural activity shapes behavior.
+        I build interpretable, data-driven models using machine learning, dynamical systems modeling, and decoding analyses to understand how the geometry of neural activity shapes behavior.
       </p>
       <p>
-        Previously, during my Ph.D. in Neuroscience, I quantified intrinsic neural timescales <a href="https://academic.oup.com/cercor/article/29/1/230/4708292?login=false" target="_blank">across cortical areas</a>, and the <a href="https://www.nature.com/articles/s41598-021-00512-2" target="_blank">basal ganglia</a> to reveal how slow and fast dynamics support distinct computations. Before transitioning into neuroscience, I earned an M.Sc. in particle physics and worked at CERN on rare K⁺ meson decays and heavy-neutrino searches—running Monte Carlo simulations and developing real-time trigger algorithms.
+        Previously, during my Ph.D. in Neuroscience, I quantified intrinsic neural timescales <a href="https://academic.oup.com/cercor/article/29/1/230/4708292?login=false" target="_blank">across cortical areas</a>, and the <a href="https://www.nature.com/articles/s41598-021-00512-2" target="_blank">basal ganglia</a> to reveal how slow and fast dynamics support distinct computations. Before transitioning into neuroscience, I earned a B.Sc. in physics and an M.Sc. in particle physics and I worked at CERN on rare K⁺ meson decays and heavy-neutrino searches—running Monte Carlo simulations and developing real-time trigger algorithms.
       </p>
     </div>
     <div class="about-pic">
