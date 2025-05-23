@@ -174,3 +174,45 @@ a:focus {
   margin-top: 0.25rem;
   margin-bottom: 1.5rem;
 }
+/* ─── Header spacing tweaks ─── */
+.header-title {
+  margin-top: 1.5rem;    /* you can shrink this if you want */
+  margin-bottom: 0.25rem;/* less space below the name */
+}
+
+.header-subtitle {
+  margin-top: 0;         /* remove the gap above */
+  margin-bottom: 0.5rem; /* small gap before the affiliation line */
+}
+
+.header-affiliation {
+  margin-top: 0;         /* tuck it right under the subtitle */
+  margin-bottom: 1rem;   /* space before the nav links */
+}
+/* ─── Tighten up research-interests lists ─── */
+
+/* Remove the default <p> margins that Kramdown wraps around each <li> */
+.research-interests li > p {
+  display: inline;    /* treat the <p> as inline text */
+  margin: 0;          /* zero out the top/bottom gap */
+  padding: 0;
+}
+
+/* Ensure each <li> still has a little breathing room */
+.research-interests li {
+  margin-bottom: 0.5rem;
+}
+
+/* If you have two separate .research-interests ULs back to back, collapse their top margin */
+.research-interests + .research-interests {
+  margin-top: 0;
+}
+/* any UL immediately following another UL should have no top margin */
+ul + ul {
+  margin-top: 0;
+}
+
+/* tighten up li spacing if you like */
+ul li {
+  margin-bottom: 0.2rem;
+}

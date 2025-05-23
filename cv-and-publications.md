@@ -45,19 +45,13 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - Poster prsenter, SfN (online, 2021)
   - Poster presenter, Italian National Congress in Neuroscience (Perugia, Italy, 2019)
   - Poster presenter, Italian National Congress in Neuroscience (Ischia, Italy, 2018)
-  - Poster presenter, Italian National Meeting of PhD students in Neuroscience (Naples, Italy, 2017)
+  - Poster presenter,Italian National Meeting of PhD students in Neuroscience (Naples, Italy, 2017)
+  
 
-  - **Grants & Fellowships**  
+- **Grants & Fellowships**  
   - Research Fellowship, Italian Academy in New York (2025)  
   - “Avvio alla Ricerca” Sapienza University Grant (2018)  
   - Best Project Award, BCBT Summer School (IBEC, Barcelona, 2018)
-
-
-
-
-
-
-
 
 ---
 
