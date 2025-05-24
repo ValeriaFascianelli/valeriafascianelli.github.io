@@ -13,6 +13,14 @@ title: "Valeria Fascianelli, Ph.D."
 subtitle: "Computational Neuroscientist"
 author: "Valeria Fascianelli"
 email: "vf2266@columbia.edu"   # optional but nice for contact
+
+# Tell Jekyll what URL your site will live at:
+url: "https://valeriafascianelli.com"
+# Since this is a *user* or *organization* page (not a project
+# page), you leave baseurl blank:
+baseurl: ""
+
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
