@@ -32,7 +32,6 @@ Zuckerman Institute, Columbia University
 - **GitHub**: [github.com/ValeriaFascianelli](https://github.com/ValeriaFascianelli)  
 - **X (formerly Twitter)**: [@VFascianelli](https://x.com/VFascianelli)  
 - **bsky**: [bsky.app/profile/valeriafascianelli.bsky.social](https://bsky.app/profile/valeriafascianelli.bsky.social)  
-- **ORCID**: [0000-0002-XXXX-XXXX](https://orcid.org/0000-0002-XXXX-XXXX)  
 
 ---
 
