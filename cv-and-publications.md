@@ -91,56 +91,39 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 
 ### Physics Selected Publications
 
-- E. C. Gil _et al._  
-  [*Measurement of the K⁺ → π⁺γγ decay*](https://scholar.google.com/scholar?q=Measurement+of+the+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%B3%CE%B3+decay), *Physics Letters B* (2024)
+- E. C. Gil _et al._  [*Measurement of the K⁺ → π⁺γγ decay*](https://www.sciencedirect.com/science/article/pii/S0370269324000716), *Physics Letters B* (2024)
 
-- E. C. Gil _et al._  
-  [*Performance of the NA62 trigger system*](https://scholar.google.com/scholar?q=Performance+of+the+NA62+trigger+system), *Journal of High Energy Physics* (2023)
+- E. C. Gil _et al._  [*Performance of the NA62 trigger system*](https://scholar.google.com/scholar?q=Performance+of+the+NA62+trigger+system), *Journal of High Energy Physics* (2023)
 
-- E. C. Gil _et al._  
-  [*A search for the K⁺ → µ⁻νe⁺e⁺ decay*](https://scholar.google.com/scholar?q=A+search+for+the+K+%E2%81%B4+%E2%86%92+%C2%B5%E2%82%82%CE%B5%E2%81%B4%CE%B5%CF%82+decay), *Physics Letters B* (2023)
+- E. C. Gil _et al._  [*A search for the K⁺ → µ⁻νe⁺e⁺ decay*](https://scholar.google.com/scholar?q=A+search+for+the+K+%E2%81%B4+%E2%86%92+%C2%B5%E2%82%82%CE%B5%E2%81%B4%CE%B5%CF%82+decay), *Physics Letters B* (2023)
 
-- E. C. Gil _et al._
-  [*A measurement of the K⁺ → π⁺µ⁺µ⁻ decay*](https://scholar.google.com/scholar?q=A+measurement+of+the+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%BC%E2%81%B4%CE%BC%E2%88%92+decay), *Journal of High Energy Physics* (2022)
+- E. C. Gil _et al._ [*A measurement of the K⁺ → π⁺µ⁺µ⁻ decay*](https://scholar.google.com/scholar?q=A+measurement+of+the+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%BC%E2%81%B4%CE%BC%E2%88%92+decay), *Journal of High Energy Physics* (2022)
 
-- E. C. Gil _et al._  
-  [*Searches for lepton number violating K⁺ → π⁻π⁰e⁺e⁺ decays*](https://scholar.google.com/scholar?q=Searches+for+lepton+number+violating+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CF%88%E2%81%B0%E2%81%B0%CE%B5%E2%81%B4+decays), *Physics Letters B* (2022)
+- E. C. Gil _et al._  [*Searches for lepton number violating K⁺ → π⁻π⁰e⁺e⁺ decays*](https://scholar.google.com/scholar?q=Searches+for+lepton+number+violating+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CF%88%E2%81%B0%E2%81%B0%CE%B5%E2%81%B4+decays), *Physics Letters B* (2022)
 
-- A. Akmete _et al._  
-  [*High level performance of the NA62 RICH detector*](https://scholar.google.com/scholar?q=High+level+performance+of+the+NA62+RICH+detector), *Nuclear Instruments and Methods in Physics Research* (2022)
+- A. Akmete _et al._  [*High level performance of the NA62 RICH detector*](https://scholar.google.com/scholar?q=High+level+performance+of+the+NA62+RICH+detector), *Nuclear Instruments and Methods in Physics Research* (2022)
 
-- R. Aliberti _et al._
-  [*Search for Lepton Number and Flavor Violation in K⁺ and π⁰ Decays*](https://scholar.google.com/scholar?q=Search+for+Lepton+Number+and+Flavor+Violation+in+K+%E2%81%B4+and+%CF%80%E2%81%B0+Decays), *Physical Review Letters* (2021)
+- R. Aliberti _et al._ [*Search for Lepton Number and Flavor Violation in K⁺ and π⁰ Decays*](https://scholar.google.com/scholar?q=Search+for+Lepton+Number+and+Flavor+Violation+in+K+%E2%81%B4+and+%CF%80%E2%81%B0+Decays), *Physical Review Letters* (2021)
 
-- E. C. Gil _et al._  
-  [*Measurement of the very rare K⁺ → π⁺νν decay*](https://scholar.google.com/scholar?q=Measurement+of+the+very+rare+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%BD%CE%BD+decay), *Journal of High Energy Physics* (2021)
+- E. C. Gil _et al._  [*Measurement of the very rare K⁺ → π⁺νν decay*](https://scholar.google.com/scholar?q=Measurement+of+the+very+rare+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%BD%CE%BD+decay), *Journal of High Energy Physics* (2021)
 
-- E. C. Gil _et al._  
-  [*Search for a feebly interacting particle X in the decay K⁺ → π⁺X*](https://scholar.google.com/scholar?q=Search+for+a+feebly+interacting+particle+X+in+the+decay+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4X), *Journal of High Energy Physics* (2021)
+- E. C. Gil _et al._  [*Search for a feebly interacting particle X in the decay K⁺ → π⁺X*](https://scholar.google.com/scholar?q=Search+for+a+feebly+interacting+particle+X+in+the+decay+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4X), *Journal of High Energy Physics* (2021)
 
-- F. Ambrosino _et al._  
-  [*Search for Lepton Number and Flavor Violation in π⁰ Decays*](https://scholar.google.com/scholar?q=Search+for+Lepton+Number+and+Flavor+Violation+in+%CF%80%E2%81%B0+Decays), *Physical Review Letters* (2021)
+- F. Ambrosino _et al._  [*Search for Lepton Number and Flavor Violation in π⁰ Decays*](https://scholar.google.com/scholar?q=Search+for+Lepton+Number+and+Flavor+Violation+in+%CF%80%E2%81%B0+Decays), *Physical Review Letters* (2021)
 
-- E. C. Gil _et al._  
-  [*Search for heavy neutral lepton production in K⁺ decays to positrons*](https://scholar.google.com/scholar?q=Search+for+heavy+neutral+lepton+production+in+K+%E2%81%B4+decays+to+positrons), *Physics Letters B* (2020)
+- E. C. Gil _et al._  [*Search for heavy neutral lepton production in K⁺ decays to positrons*](https://scholar.google.com/scholar?q=Search+for+heavy+neutral+lepton+production+in+K+%E2%81%B4+decays+to+positrons), *Physics Letters B* (2020)
 
-- E. C. Gil _et al._  
-  [*Final performances of the NA62 RICH detector*](https://scholar.google.com/scholar?q=Final+performances+of+the+NA62+RICH+detector), *Journal of Instrumentation* (2020)
+- E. C. Gil _et al._  [*Final performances of the NA62 RICH detector*](https://scholar.google.com/scholar?q=Final+performances+of+the+NA62+RICH+detector), *Journal of Instrumentation* (2020)
 
-- E. C. Gil _et al._  
-  [*Search for production of an invisible dark photon in π⁰ decays*](https://scholar.google.com/scholar?q=Search+for+production+of+an+invisible+dark+photon+in+%CF%80%E2%81%B0+decays), *Journal of High Energy Physics* (2019)
+- E. C. Gil _et al._  [*Search for production of an invisible dark photon in π⁰ decays*](https://scholar.google.com/scholar?q=Search+for+production+of+an+invisible+dark+photon+in+%CF%80%E2%81%B0+decays), *Journal of High Energy Physics* (2019)
 
-- E. C. Gil _et al._
-  [*First search for K⁺ → π⁺νν using the decay-in-flight technique*](https://scholar.google.com/scholar?q=First+search+for+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%BD%CE%BD+using+the+decay-in-flight+technique), *Physics Letters B* (2019)
+- E. C. Gil _et al._ [*First search for K⁺ → π⁺νν using the decay-in-flight technique*](https://scholar.google.com/scholar?q=First+search+for+K+%E2%81%B4+%E2%86%92+%CF%80%E2%81%B4%CE%BD%CE%BD+using+the+decay-in-flight+technique), *Physics Letters B* (2019)
 
-- R. Aliberti _et al._
-  [*Search for heavy neutral leptons at the NA62 experiment at CERN*](https://scholar.google.com/scholar?q=Search+for+heavy+neutral+leptons+at+the+NA62+experiment+at+CERN), *International Journal of Modern Physics A* (2018)
+- R. Aliberti _et al._ [*Search for heavy neutral leptons at the NA62 experiment at CERN*](https://scholar.google.com/scholar?q=Search+for+heavy+neutral+leptons+at+the+NA62+experiment+at+CERN), *International Journal of Modern Physics A* (2018)
 
-- E. C. Gil _et al._
-  [*The Beam and detector of the NA62 experiment at CERN*](https://scholar.google.com/scholar?q=The+Beam+and+detector+of+the+NA62+experiment+at+CERN), *Journal of Instrumentation* (2017)
+- E. C. Gil _et al._ [*The Beam and detector of the NA62 experiment at CERN*](https://scholar.google.com/scholar?q=The+Beam+and+detector+of+the+NA62+experiment+at+CERN), *Journal of Instrumentation* (2017)
 
-- G. A. Rinella _et al._
-  [*NA62 Charged Particle Hodoscope: design and performance in the 2016 run*](https://scholar.google.com/scholar?q=NA62+Charged+Particle+Hodoscope:+design+and+performance+in+the+2016+run), *Journal of Instrumentation* (2017)
+- G. A. Rinella _et al._ [*NA62 Charged Particle Hodoscope: design and performance in the 2016 run*](https://scholar.google.com/scholar?q=NA62+Charged+Particle+Hodoscope:+design+and+performance+in+the+2016+run), *Journal of Instrumentation* (2017)
 
 [See all Physics publications on Google Scholar](https://scholar.google.it/citations?user=z_weYNIAAAAJ&hl=it){:target="_blank"}
 
