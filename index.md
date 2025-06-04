@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Home"
+title: "Valeria Fascianelli"
+description: "Homepage"
 permalink: /
 ---
 
