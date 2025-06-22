@@ -33,6 +33,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 - **Conference Roles & Invited Talks**  
   - Invited Speaker, Mathematics for Neuroscience & AI (Split, Croatia, 2025) 
   - Co-Chair of the Neural Data session, Mathematics for Neuroscience & AI (Split, Croatia, 2025)  
+  - Invited Speaker, Neuro-inspired AI workshop (La Sapienza, Rome, 2025) 
   - Invited Speaker, Bernstein Conference (Main, Germany, 2025)  
   - Invited Speaker, COSYNE (Montreal, Canada, 2025)  
   - Poster presenter, ARIADNE (Milos, Greece, 2024)
