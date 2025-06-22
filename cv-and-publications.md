@@ -61,7 +61,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 ### Neuroscience Publications
 
 - F. Xia\*, **V. Fascianelli**\*, N. Vishwakarma, F. G. Ghinger, A. O. Kwon, M. M. Gergues, L. K. Lalani, S. Fusi, M. A. Kheirbek. 
-  [*Understanding the neural code of stress to control anhedonia*](https://www.nature.com/articles/s41586-024-08241-y), *Nature* (2024). \*co-first author. 
+  [*Understanding the neural code of stress to control anhedonia*](https://www.nature.com/articles/s41586-024-08241-y), *Nature* (2025). \*co-first author. 
 
 - **V. Fascianelli**, A. Battista, F. Stefanini, S. Tsujimoto, A. Genovesio, S. Fusi.  
   [*Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks*](https://www.nature.com/articles/s41467-024-50503-w), *Nature Communications* (2024)
