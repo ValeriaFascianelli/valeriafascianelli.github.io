@@ -40,9 +40,9 @@ permalink: /
       <p class="social-links">
         <a href="/assets/pdf/CV_Valeria_Fascianelli.pdf" target="_blank">CV</a>
         <a href="https://scholar.google.com/citations?user=z_weYNIAAAAJ" target="_blank">Google Scholar</a>
+        <a href="https://zuckermaninstitute.columbia.edu/science-life-valeria-fascianelli" target="_blank">LifeScience</a>
+        <a href="https://lavocedinewyork.com/new-york/2025/04/30/un-omaggio-a-davide-giri-un-panel-sui-sistemi-complessi-al-consolato-generale/" target="_blank">Press</a>
       </p>
-      <p><strong>Press:</strong> <a href="https://lavocedinewyork.com/new-york/2025/04/30/un-omaggio-a-davide-giri-un-panel-sui-sistemi-complessi-al-consolato-generale/"></a></p>
-      <p><strong>The Science Life:</strong> <a href="https://zuckermaninstitute.columbia.edu/science-life-valeria-fascianelli"></a></p>
     </div>
     </div>
   </div>
