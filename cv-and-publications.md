@@ -31,6 +31,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - 2022 Mentor for the Summer program within the Leadership Alliance Program, Center for Theoretical Neuroscience, Columbia University (2022)
 
 - **Conference Roles & Invited Talks**  
+  - Invited Speaker, Kavli Institue for Systems Neuroscience, Norwegian University of Science and Technology (Norway, 2025)
   - Invited Speaker, Mathematics for Neuroscience & AI (Split, Croatia, 2025) 
   - Co-Chair of the Neural Data session, Mathematics for Neuroscience & AI (Split, Croatia, 2025)  
   - Invited Speaker, Neuro-inspired AI workshop (La Sapienza, Rome, 2025) 
