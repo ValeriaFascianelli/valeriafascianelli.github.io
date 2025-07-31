@@ -12,7 +12,7 @@ permalink: /
   <div class="about-content">
     <div class="about-text">
      <p>
-        I am a physicist by training and currently a postdoctoral researcher in computational neuroscience in Stefano Fusi’s lab at Columbia University, New York.
+        I am a physicist by training and currently Associate Research Scientist in computational neuroscience at Columbia University, New York. I was awarded the Alexander Bodini Fellowship at the Italian Academy for Advanced Studies at Columbia University.
       </p>
       <p>
        I collaborate closely with experimentalists to understand neural mechanisms and computational principles of cognitive processes, such as decision-making, and to characterize emotional states.
