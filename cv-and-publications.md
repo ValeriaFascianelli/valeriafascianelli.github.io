@@ -13,8 +13,10 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 ---
 ## CV Summary
 
-- **Current Position**  
-  Postdoctoral Research Scientist in Computational Neuroscience, Center for Theoretical Neuroscience, Columbia University, New York, USA (2020–present)
+
+- **Current Position**
+  - Bodini Fellow at the Italian Academy for Advanced Studies at Columbia University, New York (2025-present)
+  - Associate Research Scientist in Computational Neuroscience, Center for Theoretical Neuroscience, Columbia University, New York, USA (2025–present)
 
 - **Education**  
   - Ph.D. in Neuroscience, La Sapienza University, Rome, Italy (2020)  
