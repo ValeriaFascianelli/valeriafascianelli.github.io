@@ -31,8 +31,10 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - Teaching Assistant, Cognitive Science, Barnard College (2022,2023)
   - Teaching assistant at the Methods in Computational Neuroscience summer school, Marine Biological Laboratory, Woods Hole (2023)
   - 2022 Mentor for the Summer program within the Leadership Alliance Program, Center for Theoretical Neuroscience, Columbia University (2022)
+  - Teaching Assistant of Calculus, School of Physics and Astronomy, University of Birmingham, Birmingham, UK (2014,2015)
 
-- **Conference Roles & Invited Talks**  
+- **Conference Roles & Invited Talks** 
+  - Invited Speaker, Paris Brain Institute (Paris, 2025) 
   - Invited Speaker, Institute of Neuromodulation (Paris, 2025)
   - Invited Speaker, Italian Academy of Advanced Studies, Columbia University (New York, 2025)
   - Invited Speaker, Kavli Institue for Systems Neuroscience, Norwegian University of Science and Technology (Norway, 2025)
