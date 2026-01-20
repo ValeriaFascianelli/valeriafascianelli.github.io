@@ -43,6 +43,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - Invited Speaker, Neuro-inspired AI workshop (La Sapienza, Rome, 2025) 
   - Invited Speaker, Bernstein Conference (Main, Germany, 2025)  
   - Invited Speaker, Bocconi University (Milan, 2025) 
+  - Invited Speaker, IMT Advanced Studies (Lucca, 2025)
   - Invited Speaker, Mount Sinai (New York, 2025)
   - Invited Speaker, Institute of Science and Technology Austria (Vienna, 2025) 
   - Invited Speaker, COSYNE (Montreal, Canada, 2025)  
