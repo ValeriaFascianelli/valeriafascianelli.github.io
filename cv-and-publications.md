@@ -34,7 +34,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - Teaching Assistant of Calculus, School of Physics and Astronomy, University of Birmingham, Birmingham, UK (2014,2015)
 
 - **Conference Roles & Invited Talks** 
-  - Invited Speaker, Kavli Symposium, Columbia University (New York, 2025) 
+  - Invited Speaker, Kavli Symposium, Columbia University (New York, 2026) 
   - Invited Speaker, Paris Brain Institute (Paris, 2025) 
   - Invited Speaker, Institute of Neuromodulation (Paris, 2025)
   - Invited Speaker, Italian Academy of Advanced Studies, Columbia University (New York, 2025)
