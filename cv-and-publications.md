@@ -75,7 +75,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 
 ### Neuroscience Publications
 
-- **V.Fascianelli**\*, J. Munuera*, B. Wang, S. Bernardi, C. D. Salzman, S. Fusi, Neural Geometry Dynamics Reveal Computational Roles In Multiple Brain Regions During Decision Making, Under preparation (2026)
+- **V.Fascianelli**\*, J. Munuera*, B. Wang, S. Bernardi, C. D. Salzman, S. Fusi, Neural Geometry Dynamics Reveal Computational Roles In Multiple Brain Regions During Decision Making, Under preparation (2026)   
 *Equal contribution
 
 - L.Vignozzi, S.Varani, A.Leparulo, **V. Fascianelli**, E.Beretta, S.Vassanelli, G.Deidda, M.Allegra,
