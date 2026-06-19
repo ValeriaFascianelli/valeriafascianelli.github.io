@@ -34,6 +34,8 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - Teaching Assistant of Calculus, School of Physics and Astronomy, University of Birmingham, Birmingham, UK (2014,2015)
 
 - **Conference Roles & Invited Talks** 
+  - Invited Speaker, Microsoft, (New York, 2026)
+  - Invited Speaker, Paris Brain Institute, Neuro/AI, (Paris, 2026)
   - Invited Speaker, Kavli Symposium, Columbia University (New York, 2026) 
   - Invited Speaker, Paris Brain Institute (Paris, 2025) 
   - Invited Speaker, Institute of Neuromodulation (Paris, 2025)
@@ -61,7 +63,8 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
   - Poster presenter, Italian National Meeting of PhD students in Neuroscience (Naples, Italy, 2017)
   
 
-- **Grants & Fellowships**  
+- **Grants & Fellowships** 
+  - National Scientific Qualification (Abilitazione Scientifica Nazionale, ASN) as Associate Professor in Applied Physics, Italy (2026) 
   - Research Fellowship, Italian Academy in New York (2025)  
   - “Avvio alla Ricerca” Sapienza University Grant (2018)  
   - Best Project Award, BCBT Summer School (IBEC, Barcelona, 2018)
@@ -71,6 +74,15 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 ## Publications
 
 ### Neuroscience Publications
+
+- **V.Fascianelli**\*, J. Munuera*, B. Wang, S. Bernardi, C. D. Salzman, S. Fusi, [*Neural Geometry Dynamics Reveal Computational Roles In Multiple Brain Regions During Decision Making]*, Under preparation (2026)
+*Equal contribution
+
+- L.Vignozzi, S.Varani, A.Leparulo, **V. Fascianelli**, E.Beretta, S.Vassanelli, G.Deidda, M.Allegra,
+[*Intra-hemispheric functional signatures predict motor recovery after stroke*], Under review in iScience, (2026)
+
+- A.E.Ipata\*, **V.Fascianelli**\*, C.I. De Zeeuw, N.Sendhilnathan, S. Fusi, M.E. Goldberg, [*Purkinje cells in Crus I and II encode the visual stimulus and the impending choice as monkeys learn a reinforcement based visuomotor association task*], Under review in Journal of Neuroscience (2026).
+* equal contribution
 
 - F. Xia\*, **V. Fascianelli**\*, N. Vishwakarma, F. G. Ghinger, A. O. Kwon, M. M. Gergues, L. K. Lalani, S. Fusi, M. A. Kheirbek. 
   [*Understanding the neural code of stress to control anhedonia*](https://www.nature.com/articles/s41586-024-08241-y), *Nature* (2025). \*co-first author. 
