@@ -75,13 +75,13 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 
 ### Neuroscience Publications
 
-- **V.Fascianelli**\*, J. Munuera*, B. Wang, S. Bernardi, C. D. Salzman, S. Fusi, [*Neural Geometry Dynamics Reveal Computational Roles In Multiple Brain Regions During Decision Making]*, Under preparation (2026)
+- **V.Fascianelli**\*, J. Munuera*, B. Wang, S. Bernardi, C. D. Salzman, S. Fusi, Neural Geometry Dynamics Reveal Computational Roles In Multiple Brain Regions During Decision Making, Under preparation (2026)
 *Equal contribution
 
 - L.Vignozzi, S.Varani, A.Leparulo, **V. Fascianelli**, E.Beretta, S.Vassanelli, G.Deidda, M.Allegra,
-[*Intra-hemispheric functional signatures predict motor recovery after stroke*], Under review in iScience, (2026)
+Intra-hemispheric functional signatures predict motor recovery after stroke, Under review in iScience, (2026)
 
-- A.E.Ipata\*, **V.Fascianelli**\*, C.I. De Zeeuw, N.Sendhilnathan, S. Fusi, M.E. Goldberg, [*Purkinje cells in Crus I and II encode the visual stimulus and the impending choice as monkeys learn a reinforcement based visuomotor association task*], Under review in Journal of Neuroscience (2026).
+- A.E.Ipata\*, **V.Fascianelli**\*, C.I. De Zeeuw, N.Sendhilnathan, S. Fusi, M.E. Goldberg, Purkinje cells in Crus I and II encode the visual stimulus and the impending choice as monkeys learn a reinforcement based visuomotor association task, Under review in Journal of Neuroscience (2026).
 * equal contribution
 
 - F. Xia\*, **V. Fascianelli**\*, N. Vishwakarma, F. G. Ghinger, A. O. Kwon, M. M. Gergues, L. K. Lalani, S. Fusi, M. A. Kheirbek. 
