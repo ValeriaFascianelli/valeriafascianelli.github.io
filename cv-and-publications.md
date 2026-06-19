@@ -82,7 +82,7 @@ You can download my full CV [here](/assets/pdf/CV_Valeria_Fascianelli.pdf){:targ
 Intra-hemispheric functional signatures predict motor recovery after stroke, Under review in iScience, (2026)
 
 - A.E.Ipata\*, **V.Fascianelli**\*, C.I. De Zeeuw, N.Sendhilnathan, S. Fusi, M.E. Goldberg, Purkinje cells in Crus I and II encode the visual stimulus and the impending choice as monkeys learn a reinforcement based visuomotor association task, Under review in Journal of Neuroscience (2026).
-* equal contribution
+*Equal contribution
 
 - F. Xia\*, **V. Fascianelli**\*, N. Vishwakarma, F. G. Ghinger, A. O. Kwon, M. M. Gergues, L. K. Lalani, S. Fusi, M. A. Kheirbek. 
   [*Understanding the neural code of stress to control anhedonia*](https://www.nature.com/articles/s41586-024-08241-y), *Nature* (2025). \*co-first author. 
