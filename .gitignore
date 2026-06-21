@@ -1,13 +1,8 @@
-# project
-_site
-.sass-cache
-.vagrant
-
-# general
+# OS junk
 .DS_Store
 Thumbs.db
 ehthumbs.db
 
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem
+# Local tooling / editor
+.claude/
+.vscode/

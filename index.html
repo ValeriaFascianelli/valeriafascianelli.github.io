@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Valeria Fascianelli, Ph.D. — Computational Neuroscience</title>
+  <meta name="description" content="Associate Research Scientist in Computational Neuroscience at the Zuckerman Institute, Columbia University. Research in neural decoding, representational geometry, and decision-making.">
+
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- NAV -->
+  <div class="scroll-progress" id="scrollProgress"></div>
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">VF</a>
+      <button class="nav-burger" id="navBurger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#about">About</a></li>
+        <li><a href="#research">Research</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#contact" class="nav-pill">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <canvas id="neuralCanvas"></canvas>
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hero-tag">Computational Neuroscience &nbsp;·&nbsp; Columbia University</p>
+        <h1 class="hero-name">Valeria<br><em>Fascianelli</em></h1>
+        <p class="hero-role">Ph.D. &nbsp;·&nbsp; Associate Research Scientist</p>
+        <p class="hero-desc">
+          Associate Research Scientist in Computational Neuroscience<br>
+          Zuckerman Institute, Columbia University, New York
+        </p>
+        <div class="hero-ctas">
+          <a href="#research" class="btn btn-primary">My Research</a>
+          <a href="assets/CV_Valeria_Fascianelli.pdf" target="_blank" rel="noopener" class="btn btn-outline">Download CV</a>
+        </div>
+      </div>
+
+      <div class="hero-photo">
+        <div class="photo-orbit">
+          <div class="orbit-ring orbit-ring-1"></div>
+          <div class="orbit-ring orbit-ring-2"></div>
+          <div class="orbit-dot orbit-dot-1"></div>
+          <div class="orbit-dot orbit-dot-2"></div>
+          <img
+            src="https://valeriafascianelli.com/assets/img/image_VF.jpg"
+            alt="Valeria Fascianelli"
+            class="hero-img"
+          >
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-scroll">
+      <span></span>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section about" id="about">
+    <div class="container">
+      <p class="label reveal">About</p>
+      <div class="about-grid">
+
+        <div class="about-copy reveal">
+          <h2>About Me</h2>
+          <p>
+            I am a physicist by training and currently Associate Research Scientist in computational neuroscience at Columbia University, New York. I was awarded the Alexander Bodini Fellowship at the Italian Academy for Advanced Studies at Columbia University.
+          </p>
+          <p>
+            I collaborate closely with experimentalists to understand neural mechanisms and computational principles of cognitive processes, such as decision-making, and to characterize emotional states.
+          </p>
+          <p>
+            In my postdoctoral work, I have been developing a representational geometry framework to uncover individual cognitive strategies in primate prefrontal cortex, probe decision-making computations in cerebellar Purkinje cells, and characterize internal states following stress events in the amygdala and hippocampus.
+          </p>
+          <p>
+            I build interpretable, data-driven models using machine learning, dynamical systems modeling, and decoding analyses to understand how the geometry of neural activity shapes behavior.
+          </p>
+          <p>
+            Previously, during my Ph.D. in Neuroscience, I quantified intrinsic neural timescales across cortical areas, and the basal ganglia to reveal how slow and fast dynamics support distinct computations. Before transitioning into neuroscience, I earned a B.Sc. in physics and an M.Sc. in particle physics and I worked at CERN on rare K<sup>+</sup> meson decays and heavy-neutrino searches — running Monte Carlo simulations and developing real-time trigger algorithms.
+          </p>
+          <div class="about-links">
+            <a href="https://scholar.google.com/citations?user=z_weYNIAAAAJ" target="_blank" rel="noopener" class="inline-link">Google Scholar</a>
+            <span class="sep">·</span>
+            <a href="https://zuckermaninstitute.columbia.edu/science-life-valeria-fascianelli" target="_blank" rel="noopener" class="inline-link">Zuckerman Profile</a>
+          </div>
+        </div>
+
+        <div class="about-side reveal">
+          <div class="position-card">
+            <p class="card-label">Current Position</p>
+            <div class="position-item">
+              <div class="position-dot"></div>
+              <div>
+                <strong>Associate Research Scientist</strong>
+                <span>Center for Theoretical Neuroscience<br>Zuckerman Institute, Columbia University<br>New York, USA &nbsp;·&nbsp; 2025–present</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="edu-card">
+            <p class="card-label">Education</p>
+            <ul class="edu-list">
+              <li>
+                <strong>Ph.D. in Neuroscience</strong>
+                <span>La Sapienza University, Rome &nbsp;·&nbsp; 2020</span>
+              </li>
+              <li>
+                <strong>M.Res. in Particle Physics</strong>
+                <span>University of Birmingham, UK &nbsp;·&nbsp; 2016</span>
+              </li>
+              <li>
+                <strong>M.Sc. in Nuclear &amp; Subnuclear Physics</strong>
+                <span>University Tor Vergata, Rome &nbsp;·&nbsp; 2014</span>
+              </li>
+              <li>
+                <strong>B.Sc. in Physics</strong>
+                <span>University Tor Vergata, Rome &nbsp;·&nbsp; 2011</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- HIGHLIGHTED RESEARCH -->
+  <section class="section highlights" id="highlights">
+    <div class="container">
+      <p class="label reveal">Highlighted Research</p>
+      <h2 class="reveal">Selected Works</h2>
+
+      <!-- Article 1 -->
+      <article class="hl-card reveal">
+        <div class="hl-header">
+          <div class="hl-badges">
+            <span class="hl-journal">Nature Communications · 2024</span>
+            <a href="https://www.nature.com/articles/s41467-024-50503-w" target="_blank" rel="noopener" class="hl-read">Read article ↗</a>
+          </div>
+          <div class="hl-metrics">
+            <div class="hl-metric">
+              <span class="hl-metric-n">17k</span>
+              <span class="hl-metric-l">Accesses</span>
+            </div>
+            <div class="hl-metric">
+              <span class="hl-metric-n">50</span>
+              <span class="hl-metric-l">Citations</span>
+            </div>
+            <div class="hl-metric">
+              <span class="hl-metric-n">41</span>
+              <span class="hl-metric-l">Altmetric</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hl-body">
+          <div class="hl-text">
+            <h3 class="hl-title">Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks</h3>
+            <p class="hl-authors">Valeria Fascianelli et al. (Nature Communications, 2024)</p>
+            <blockquote class="hl-extract">
+              Animals likely use a variety of strategies to solve laboratory tasks. Here, we showed that the differences in neural geometry are associated with differences in the reaction times, suggesting that the monkeys are using different strategies. Using recurrent neural network models trained to perform the same task, we show that these strategies correlate with the amount of training.
+            </blockquote>
+          </div>
+
+          <div class="hl-figures">
+            <figure class="hl-fig">
+              <img src="assets/animazione_compito.gif" alt="Task animation — neural geometry and behavioral strategies">
+              <figcaption>Task animation: neural geometry and behavioral strategies</figcaption>
+            </figure>
+          </div>
+        </div>
+      </article>
+
+      <!-- Article 2 -->
+      <article class="hl-card reveal">
+        <div class="hl-header">
+          <div class="hl-badges">
+            <span class="hl-journal hl-journal-nature">Nature · 2025</span>
+            <a href="https://www.nature.com/articles/s41586-024-08241-y" target="_blank" rel="noopener" class="hl-read">Read article ↗</a>
+          </div>
+          <div class="hl-metrics">
+            <div class="hl-metric">
+              <span class="hl-metric-n">71k</span>
+              <span class="hl-metric-l">Accesses</span>
+            </div>
+            <div class="hl-metric">
+              <span class="hl-metric-n">33</span>
+              <span class="hl-metric-l">Citations</span>
+            </div>
+            <div class="hl-metric">
+              <span class="hl-metric-n">316</span>
+              <span class="hl-metric-l">Altmetric</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hl-body">
+          <div class="hl-text">
+            <h3 class="hl-title">Understanding the neural code of stress to control anhedonia</h3>
+            <p class="hl-authors">F. Xia*, V. Fascianelli* et al. (Nature, 2025) &nbsp;·&nbsp; <em>* Equal contribution</em></p>
+            <blockquote class="hl-extract">
+              How to assess the representational geometry of resting activity to characterize emotional states? Here, we showed that the spatial arrangement of internal states of amygdala activity at rest allowed us to infer whether a mouse had a history of stress better than behavioral outcomes alone. This work reveals population-level neural dynamics that explain individual differences in responses to traumatic stress.
+            </blockquote>
+          </div>
+
+          <div class="hl-figures">
+            <figure class="hl-fig">
+              <img src="assets/fig_nature2025.jpg" alt="HMM states and representational geometry of amygdala activity under stress — MDS and decoding accuracy">
+              <figcaption>Neural geometry of amygdala HMM states: stressed vs. control mice (MDS) and decoding accuracy</figcaption>
+            </figure>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- CV / EXPERIENCE -->
+  <section class="section cv-section" id="experience">
+    <div class="container">
+
+      <div class="cv-header reveal">
+        <div>
+          <p class="label">CV</p>
+          <h2>Experience</h2>
+        </div>
+        <a href="assets/CV_Valeria_Fascianelli.pdf"
+           target="_blank" rel="noopener" class="btn btn-primary">Download CV</a>
+      </div>
+
+      <!-- Grants & Fellowships -->
+      <div class="cv-block reveal">
+        <h3 class="cv-block-label">Grants &amp; Fellowships</h3>
+        <div class="cv-entries cv-2col">
+          <div class="cv-entry">
+            <span class="cv-year">2026</span>
+            <span>National Scientific Qualification as Associate Professor in Applied Physics, Italy</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Research Fellowship, Italian Academy for Advanced Studies, New York</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2018</span>
+            <span>Avvio alla Ricerca Grant, La Sapienza University</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2018</span>
+            <span>Best Project Award, BCBT Summer School (IBEC, Barcelona)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Teaching -->
+      <div class="cv-block reveal">
+        <h3 class="cv-block-label">Teaching &amp; Mentorship</h3>
+        <div class="cv-entries cv-2col">
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Lecturer, Mathematical Methods in Computational Neuroscience Summer School — Kavli Institute</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022–24</span>
+            <span>Lecturer, Advanced Neurotheory Course — Columbia University</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022–23</span>
+            <span>Teaching Assistant, Cognitive Science — Barnard College</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2023</span>
+            <span>Teaching Assistant, Methods in Computational Neuroscience Summer School — MBL, Woods Hole</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022</span>
+            <span>Mentor, Leadership Alliance Summer Program — Center for Theoretical Neuroscience, Columbia University</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2014–15</span>
+            <span>Teaching Assistant, Calculus — University of Birmingham</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Talks -->
+      <div class="cv-block reveal">
+        <h3 class="cv-block-label">Selected Talks &amp; Conferences</h3>
+        <div class="cv-entries cv-3col">
+          <div class="cv-entry">
+            <span class="cv-year">2026</span>
+            <span>Invited Speaker — Microsoft, New York</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2026</span>
+            <span>Invited Speaker — Paris Brain Institute, Paris</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2026</span>
+            <span>Invited Speaker, Kavli Symposium — Columbia University, New York</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker — Paris Brain Institute &amp; Institute of Neuromodulation, Paris</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Co-Chair &amp; Invited Speaker, Mathematics for Neuroscience &amp; AI — Split, Croatia</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker, Bernstein Conference — Mainz, Germany</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker, Cosyne — Montreal, Canada</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker, Neuro-inspired AI Workshop — La Sapienza, Rome</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker — Kavli Institute for Systems Neuroscience, NTNU, Norway</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker — ISTA, Vienna &amp; Bocconi University, Milan</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2025</span>
+            <span>Invited Speaker — Italian Academy, Columbia University &amp; Mount Sinai, New York</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022</span>
+            <span>Invited Speaker, Tri-Center Gatsby Meeting — Hebrew University, Jerusalem</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022</span>
+            <span>Invited Speaker, Swartz Meeting — Cold Spring Harbor Laboratory</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022</span>
+            <span>Invited Speaker, Neuronex Meeting — San Diego</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2022–24</span>
+            <span>Poster — Cosyne (Montreal, Lisbon), SfN (San Diego, Online), Ariadne (Milos)</span>
+          </div>
+          <div class="cv-entry">
+            <span class="cv-year">2017–19</span>
+            <span>Poster — Italian National Congresses in Neuroscience (Perugia, Ischia, Naples)</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- RESEARCH -->
+  <section class="section research" id="research">
+    <div class="container">
+      <p class="label reveal">Research</p>
+      <h2 class="reveal">Research Interests</h2>
+      <div class="r-list">
+        <div class="r-item reveal">
+          <span class="r-num">01</span>
+          <span class="r-text">Representational geometry as an AI interpretability tool</span>
+        </div>
+        <div class="r-item reveal">
+          <span class="r-num">02</span>
+          <span class="r-text">Multi-brain region models and neural decoding</span>
+        </div>
+        <div class="r-item reveal">
+          <span class="r-num">03</span>
+          <span class="r-text">Reinforcement learning shaping representational geometry</span>
+        </div>
+        <div class="r-item reveal">
+          <span class="r-num">04</span>
+          <span class="r-text">How affective states shape network geometry and behavior</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PUBLICATIONS -->
+  <section class="section pubs" id="publications">
+    <div class="container">
+      <p class="label reveal">Publications</p>
+      <h2 class="reveal">CV &amp; Publications</h2>
+      <p class="section-intro reveal">
+        <a href="assets/CV_Valeria_Fascianelli.pdf" target="_blank" rel="noopener" class="inline-link">Download full CV (PDF)</a>
+        &nbsp;·&nbsp;
+        <a href="https://scholar.google.com/citations?user=z_weYNIAAAAJ" target="_blank" rel="noopener" class="inline-link">View on Google Scholar</a>
+      </p>
+
+      <!-- NEUROSCIENCE -->
+      <div class="pub-block reveal">
+        <h3 class="pub-block-title">Neuroscience</h3>
+        <ul class="pub-list">
+
+          <li class="pub-item pub-prep">
+            <div class="pub-meta">
+              <span class="pub-year">2026</span>
+              <span class="pub-status">In prep.</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title"><strong>V. Fascianelli*</strong>, J. Munuera*, B. Wang, S. Bernardi, C. D. Salzman, S. Fusi. Neural Geometry Dynamics Reveal Computational Roles In Multiple Brain Regions During Decision Making.</p>
+            </div>
+          </li>
+
+          <li class="pub-item pub-review">
+            <div class="pub-meta">
+              <span class="pub-year">2026</span>
+              <span class="pub-status">Under review</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">L. Vignozzi, S. Varani, A. Leparulo, <strong>V. Fascianelli</strong>, E. Beretta, S. Vassanelli, G. Deidda, M. Allegra. Intra-hemispheric functional signatures predict motor recovery after stroke. <em>iScience.</em></p>
+            </div>
+          </li>
+
+          <li class="pub-item pub-review">
+            <div class="pub-meta">
+              <span class="pub-year">2026</span>
+              <span class="pub-status">Under review</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">A. E. Ipata*, <strong>V. Fascianelli*</strong>, C. I. De Zeeuw, N. Sendhilnathan, S. Fusi, M. E. Goldberg. Purkinje cells in Crus I and II encode the visual stimulus and the impending choice as monkeys learn a reinforcement based visuomotor association task. <em>Journal of Neuroscience.</em></p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2025</span>
+              <span class="pub-venue">Nature</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                F. Xia*, <strong>V. Fascianelli*</strong>, N. Vishwakarma, F. G. Ghinger, A. O. Kwon, M. M. Gergues, L. K. Lalani, S. Fusi, M. A. Kheirbek.
+                Understanding the neural code of stress to control anhedonia.
+                <em>Nature</em> (2025). <span class="co-first">* Co-first authorship</span>
+              </p>
+              <a href="https://www.nature.com/articles/s41586-024-08241-y" target="_blank" rel="noopener" class="pub-link">nature.com →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2024</span>
+              <span class="pub-venue">Nat. Commun.</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                <strong>V. Fascianelli</strong>, A. Battista, F. Stefanini, S. Tsujimoto, A. Genovesio, S. Fusi.
+                Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks.
+                <em>Nature Communications</em> (2024).
+              </p>
+              <a href="https://www.nature.com/articles/s41467-024-50503-w" target="_blank" rel="noopener" class="pub-link">nature.com →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2024</span>
+              <span class="pub-venue">bioRxiv</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                A. E. Ipata*, <strong>V. Fascianelli*</strong>, C. I. De Zeeuw, N. Sendhilnathan, S. Fusi, M. E. Goldberg.
+                Purkinje cells in Crus I and II encode the visual stimulus and the impending choice as monkeys learn a reinforcement-based visuomotor association task.
+                <em>bioRxiv</em> (2024). <span class="co-first">* Co-first authorship</span>
+              </p>
+              <a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612926v1" target="_blank" rel="noopener" class="pub-link">biorxiv.org →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2024</span>
+              <span class="pub-venue">PLoS Biology</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                S. Nougaret, L. Ferrucci, F. Ceccarelli, S. Sacchetti, D. Benozzo, <strong>V. Fascianelli</strong>, R. C. Saunders, L. Renaud, A. Genovesio.
+                Neurons in the monkey frontopolar cortex encode learning stage and goal during a fast learning task.
+                <em>PLoS Biology</em> (2024).
+              </p>
+              <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002500" target="_blank" rel="noopener" class="pub-link">plos.org →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2022</span>
+              <span class="pub-venue">Prog. Neurobiol.</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                L. Ferrucci, S. Nougaret, F. Ceccarelli, S. Sacchetti, <strong>V. Fascianelli</strong>, D. Benozzo, A. Genovesio.
+                Social monitoring of actions in the macaque frontopolar cortex.
+                <em>Progress in Neurobiology</em> (2022).
+              </p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2021</span>
+              <span class="pub-venue">Sci. Reports</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                S. Nougaret, <strong>V. Fascianelli</strong>, S. Ravel, A. Genovesio.
+                Intrinsic timescales across the basal ganglia.
+                <em>Scientific Reports</em> (2021).
+              </p>
+              <a href="https://www.nature.com/articles/s41598-021-00512-2" target="_blank" rel="noopener" class="pub-link">nature.com →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2020</span>
+              <span class="pub-venue">J. Neurosci.</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                <strong>V. Fascianelli</strong>, L. Ferrucci, S. Tsujimoto, A. Genovesio.
+                Neural correlates of strategy switching in the macaque orbital prefrontal cortex.
+                <em>Journal of Neuroscience</em> (2020).
+              </p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2019</span>
+              <span class="pub-venue">Cereb. Cortex</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                <strong>V. Fascianelli</strong>, E. Marcos, S. Tsujimoto, A. Genovesio.
+                Autocorrelation structure in the macaque dorsolateral, but not orbital or polar, prefrontal cortex predicts response-coding strength in a visually cued strategy task.
+                <em>Cerebral Cortex</em> (2019).
+              </p>
+              <a href="https://academic.oup.com/cercor/article/29/1/230/4708292" target="_blank" rel="noopener" class="pub-link">oup.com →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2018</span>
+              <span class="pub-venue">iScience</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">
+                R. Cirillo*, <strong>V. Fascianelli*</strong>, L. Ferrucci, A. Genovesio.
+                Neural intrinsic timescales in the macaque dorsal premotor cortex predict the strength of spatial response coding.
+                <em>iScience</em> (2018). <span class="co-first">* Co-first authorship</span>
+              </p>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+
+      <!-- PHYSICS -->
+      <div class="pub-block reveal">
+        <h3 class="pub-block-title">
+          Physics &nbsp;·&nbsp; NA62 Collaboration at CERN
+          <a href="https://scholar.google.it/citations?user=z_weYNIAAAAJ&hl=it" target="_blank" rel="noopener" class="pub-scholar-link">See all on Google Scholar →</a>
+        </h3>
+        <p class="pub-block-intro">
+          Selected publications from the NA62 experiment at CERN — searches for rare K<sup>+</sup>
+          decays, heavy neutral leptons, dark photons, and lepton number violation.
+        </p>
+        <ul class="pub-list">
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2024</span>
+              <span class="pub-venue">Phys. Lett. B</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Measurement of the K<sup>+</sup> → π<sup>+</sup>γγ decay. <em>Physics Letters B</em> (2024).</p>
+              <a href="https://www.sciencedirect.com/science/article/pii/S0370269324000716" target="_blank" rel="noopener" class="pub-link">sciencedirect.com →</a>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2023</span>
+              <span class="pub-venue">JHEP</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Performance of the NA62 trigger system. <em>Journal of High Energy Physics</em> (2023).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2023</span>
+              <span class="pub-venue">Phys. Lett. B</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. A search for the K<sup>+</sup> → µ<sup>−</sup>νe<sup>+</sup>e<sup>+</sup> decay. <em>Physics Letters B</em> (2023).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2022</span>
+              <span class="pub-venue">JHEP</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. A measurement of the K<sup>+</sup> → π<sup>+</sup>µ<sup>+</sup>µ<sup>−</sup> decay. <em>Journal of High Energy Physics</em> (2022).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2022</span>
+              <span class="pub-venue">Phys. Lett. B</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Searches for lepton number violating K<sup>+</sup> → π<sup>−</sup>π<sup>0</sup>e<sup>+</sup>e<sup>+</sup> decays. <em>Physics Letters B</em> (2022).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2022</span>
+              <span class="pub-venue">NIM-A</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">A. Akmete et al. High level performance of the NA62 RICH detector. <em>Nuclear Instruments and Methods in Physics Research A</em> (2022).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2021</span>
+              <span class="pub-venue">PRL</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">R. Aliberti et al. Search for Lepton Number and Flavor Violation in K<sup>+</sup> and π<sup>0</sup> Decays. <em>Physical Review Letters</em> (2021).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2021</span>
+              <span class="pub-venue">JHEP</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Measurement of the very rare K<sup>+</sup> → π<sup>+</sup>νν̄ decay. <em>Journal of High Energy Physics</em> (2021).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2021</span>
+              <span class="pub-venue">JHEP</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Search for a feebly interacting particle X in the decay K<sup>+</sup> → π<sup>+</sup>X. <em>Journal of High Energy Physics</em> (2021).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2021</span>
+              <span class="pub-venue">PRL</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">F. Ambrosino et al. Search for Lepton Number and Flavor Violation in π<sup>0</sup> Decays. <em>Physical Review Letters</em> (2021).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2020</span>
+              <span class="pub-venue">Phys. Lett. B</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Search for heavy neutral lepton production in K<sup>+</sup> decays to positrons. <em>Physics Letters B</em> (2020).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2020</span>
+              <span class="pub-venue">JINST</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Final performances of the NA62 RICH detector. <em>Journal of Instrumentation</em> (2020).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2019</span>
+              <span class="pub-venue">JHEP</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. Search for production of an invisible dark photon in π<sup>0</sup> decays. <em>Journal of High Energy Physics</em> (2019).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2019</span>
+              <span class="pub-venue">Phys. Lett. B</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. First search for K<sup>+</sup> → π<sup>+</sup>νν̄ using the decay-in-flight technique. <em>Physics Letters B</em> (2019).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2018</span>
+              <span class="pub-venue">Int. J. Mod. Phys. A</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">R. Aliberti et al. Search for heavy neutral leptons at the NA62 experiment at CERN. <em>International Journal of Modern Physics A</em> (2018).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2017</span>
+              <span class="pub-venue">JINST</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">E. C. Gil et al. The Beam and detector of the NA62 experiment at CERN. <em>Journal of Instrumentation</em> (2017).</p>
+            </div>
+          </li>
+
+          <li class="pub-item">
+            <div class="pub-meta">
+              <span class="pub-year">2017</span>
+              <span class="pub-venue">JINST</span>
+            </div>
+            <div class="pub-body">
+              <p class="pub-title">G. A. Rinella et al. NA62 Charged Particle Hodoscope: design and performance in the 2016 run. <em>Journal of Instrumentation</em> (2017).</p>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section contact" id="contact">
+    <div class="container">
+      <p class="label label-light reveal">Contact</p>
+      <h2 class="h2-light reveal">Get in touch</h2>
+      <p class="contact-intro reveal">
+        I welcome inquiries about potential collaborations, new research ideas,
+        job opportunities, or questions about my work.
+      </p>
+
+      <div class="contact-grid reveal">
+        <div class="contact-col">
+          <div class="contact-item">
+            <p class="ci-label">Email</p>
+            <a href="mailto:vf2266@columbia.edu" class="ci-val ci-email">vf2266@columbia.edu</a>
+          </div>
+          <div class="contact-item">
+            <p class="ci-label">Address</p>
+            <p class="ci-val">
+              Center for Theoretical Neuroscience<br>
+              Zuckerman Institute, Columbia University<br>
+              3227 Broadway, New York, NY 10027
+            </p>
+          </div>
+          <div class="contact-item">
+            <a href="assets/CV_Valeria_Fascianelli.pdf" target="_blank" rel="noopener" class="btn btn-outline-light">Download CV</a>
+          </div>
+        </div>
+
+        <div class="contact-col">
+          <p class="ci-label">Online</p>
+          <div class="social-list">
+            <a href="https://scholar.google.com/citations?user=z_weYNIAAAAJ" target="_blank" rel="noopener" class="social-row">
+              Google Scholar
+              <span class="social-arrow">↗</span>
+            </a>
+            <a href="https://zuckermaninstitute.columbia.edu/science-life-valeria-fascianelli" target="_blank" rel="noopener" class="social-row">
+              Zuckerman Institute Profile
+              <span class="social-arrow">↗</span>
+            </a>
+            <a href="https://linkedin.com/in/valeria-fascianelli-826007177" target="_blank" rel="noopener" class="social-row">
+              LinkedIn
+              <span class="social-arrow">↗</span>
+            </a>
+            <a href="https://github.com/ValeriaFascianelli" target="_blank" rel="noopener" class="social-row">
+              GitHub
+              <span class="social-arrow">↗</span>
+            </a>
+            <a href="https://x.com/VFascianelli" target="_blank" rel="noopener" class="social-row">
+              Twitter / X
+              <span class="social-arrow">↗</span>
+            </a>
+            <a href="https://bsky.app/profile/valeriafascianelli.bsky.social" target="_blank" rel="noopener" class="social-row">
+              Bluesky
+              <span class="social-arrow">↗</span>
+            </a>
+          </div>
+
+          <div class="press-row">
+            <p class="ci-label">In the Press</p>
+            <a href="https://lavocedinewyork.com/new-york/2025/04/30/un-omaggio-a-davide-giri-un-panel-sui-sistemi-complessi-al-consolato-generale/" target="_blank" rel="noopener" class="press-link">
+              La Voce di New York &nbsp;·&nbsp; April 2025 ↗
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span class="footer-logo">VF</span>
+      <p>© 2025 Valeria Fascianelli, Ph.D. &nbsp;·&nbsp; Zuckerman Institute, Columbia University</p>
+    </div>
+  </footer>
+
+  <!-- LIGHTBOX -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+    <button class="lightbox-close" id="lightboxClose" aria-label="Close">✕</button>
+    <div class="lightbox-backdrop" id="lightboxBackdrop"></div>
+    <div class="lightbox-content">
+      <img src="" alt="" id="lightboxImg">
+      <p class="lightbox-caption" id="lightboxCaption"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
