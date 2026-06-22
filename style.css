@@ -508,6 +508,11 @@ h2.reveal.visible::after { width: 80px; }
   line-height: 1.6;
 }
 
+.position-card .card-label-prev { margin-top: 1.5rem; color: var(--text-muted); }
+.position-item-prev strong { color: var(--text-mid); font-weight: 500; }
+.position-item-prev span { color: var(--text-muted); }
+.position-item-prev .position-dot { background: var(--text-muted); opacity: 0.55; }
+
 /* Cards in sidebar */
 .edu-card, .awards-card {
   background: var(--off-white);
@@ -597,11 +602,11 @@ h2.reveal.visible::after { width: 80px; }
 }
 
 .cv-entries {
-  display: grid;
-  gap: 0.1rem;
+  display: block;
+  column-gap: 1.5rem;
 }
-.cv-2col { grid-template-columns: repeat(2, 1fr); }
-.cv-3col { grid-template-columns: repeat(3, 1fr); }
+.cv-2col { column-count: 2; }
+.cv-3col { column-count: 3; }
 
 .cv-entry {
   display: flex;
@@ -610,6 +615,9 @@ h2.reveal.visible::after { width: 80px; }
   border-radius: 6px;
   align-items: baseline;
   transition: background 0.15s;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  margin-bottom: 0.15rem;
 }
 .cv-entry:hover { background: var(--border); }
 
@@ -1113,7 +1121,7 @@ h2.reveal.visible::after { width: 80px; }
 /* ── TABLET (≤ 1024px) ── */
 @media (max-width: 1024px) {
   .about-grid { gap: 3rem; }
-  .cv-3col { grid-template-columns: repeat(2, 1fr); }
+  .cv-3col { column-count: 2; }
 }
 
 /* ── MOBILE/TABLET (≤ 860px) ── */
@@ -1175,7 +1183,7 @@ h2.reveal.visible::after { width: 80px; }
 
   /* CV */
   .cv-header { flex-direction: column; align-items: flex-start; gap: 1rem; }
-  .cv-2col, .cv-3col { grid-template-columns: 1fr; }
+  .cv-2col, .cv-3col { column-count: 1; }
 
   /* Contact */
   .contact-grid { grid-template-columns: 1fr; gap: 2.5rem; }
