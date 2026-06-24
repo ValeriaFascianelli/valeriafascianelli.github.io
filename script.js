@@ -536,6 +536,15 @@
     });
   });
 
+  /* gallery thumbnails → lightbox (bind on the image so caption links stay clickable) */
+  document.querySelectorAll('.gallery-item img').forEach(function (img) {
+    img.addEventListener('click', function () {
+      var fig = img.closest('.gallery-item');
+      var cap = fig ? fig.querySelector('.gallery-caption') : null;
+      openLB(img.src, img.alt, cap ? cap.textContent.trim() : '');
+    });
+  });
+
   document.getElementById('lightboxClose').addEventListener('click', closeLB);
   document.getElementById('lightboxBackdrop').addEventListener('click', closeLB);
   document.addEventListener('keydown', function (e) {
