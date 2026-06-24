@@ -639,6 +639,17 @@ h2.reveal.visible::after { width: 80px; }
 /* ── RESEARCH ── */
 .research { background: var(--off-white); }
 
+/* ── GALLERY ── */
+.gallery { background: var(--off-white); }
+.gallery-grid { columns: 320px; column-gap: 1.5rem; margin-top: 2rem; }
+.gallery-item { break-inside: avoid; margin: 0 0 1.5rem; }
+.gallery-item img { width: 100%; height: auto; display: block; border-radius: var(--radius-lg); box-shadow: 0 10px 30px rgba(26,32,56,0.10); transition: transform 0.5s var(--ease); }
+.gallery-link { display: block; }
+.gallery-link:hover img { transform: scale(1.02); }
+.gallery-caption { margin-top: 0.9rem; font-size: 0.82rem; color: var(--text-muted); line-height: 1.6; }
+.gallery-caption a { color: var(--accent); }
+.gallery-caption a:hover { text-decoration: underline; }
+
 .r-list {
   margin-top: 1rem;
   border-top: 1px solid var(--border);
