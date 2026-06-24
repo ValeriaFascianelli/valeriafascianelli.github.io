@@ -1008,7 +1008,7 @@ h2.reveal.visible::after { width: 80px; }
 
 .press-row { margin-top: 1.5rem; }
 .press-link {
-  display: inline-block;
+  display: block;
   margin-top: 0.3rem;
   font-size: 0.85rem;
   color: rgba(255,255,255,0.5);
